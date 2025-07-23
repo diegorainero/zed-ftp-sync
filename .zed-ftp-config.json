@@ -1,0 +1,10 @@
+{
+  "host": "tuo-server.com",
+  "port": 21,
+  "username": "tuo-username",
+  "password": "tua-password",
+  "remote_path": "/var/www/html",
+  "local_path": ".",
+  "auto_sync": true,
+  "file_extensions": ["php", "html", "css", "js", "json", "md", "txt"]
+}
